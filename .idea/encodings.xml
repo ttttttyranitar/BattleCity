@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/control/GameActionListener.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/control/GameKeyListener.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/control/NamedActionListener.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/control/UserDwfinedActionListener.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/model/Barrier.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/model/PickEnemy.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/model/Player.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/EnemyAppearThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/EnemyBulletThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/EnemyHitMap.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/EnemyHitPlayerThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/EnemyMoveThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/PlayerBulletThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/thread/PlayerHitEnemyThread.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/util/Util.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/view/GameFacePanel.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/view/GameFrame.java" charset="GBK" />
+    <file url="file://E:/毕业设计资料/BattleCity/src/BattleCity/src/com/ye/view/LoginFrame.java" charset="GBK" />
+  </component>
+</project>
